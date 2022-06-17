@@ -1,0 +1,14 @@
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\bin\Debug\net5.0\SWEP.Core.deps.json
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\bin\Debug\net5.0\SWEP.Core.dll
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\bin\Debug\net5.0\ref\SWEP.Core.dll
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\bin\Debug\net5.0\SWEP.Core.pdb
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\obj\Debug\net5.0\SWEP.Core.csproj.AssemblyReference.cache
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\obj\Debug\net5.0\SWEP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\obj\Debug\net5.0\SWEP.Core.AssemblyInfoInputs.cache
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\obj\Debug\net5.0\SWEP.Core.AssemblyInfo.cs
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\obj\Debug\net5.0\SWEP.Core.csproj.CoreCompileInputs.cache
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\obj\Debug\net5.0\SWEP.Core.dll
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\obj\Debug\net5.0\ref\SWEP.Core.dll
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\obj\Debug\net5.0\SWEP.Core.pdb
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\obj\Debug\net5.0\SWEP.Core.Properties.Resources.resources
+D:\20212\Software-Engineering-Project\src\back-end\SWEP\SWEP.Core\obj\Debug\net5.0\SWEP.Core.csproj.GenerateResource.cache
